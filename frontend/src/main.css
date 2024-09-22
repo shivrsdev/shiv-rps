@@ -1,0 +1,12 @@
+:root {
+    font-family: monospace;
+    color: #DBE5EB;
+    background-color: #2F363B;
+}
+
+#app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
